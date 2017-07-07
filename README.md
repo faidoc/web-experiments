@@ -1,4 +1,4 @@
 web-experiments
 ===============
   
-Randome experiments for the web 
+Random experiments for the web 
